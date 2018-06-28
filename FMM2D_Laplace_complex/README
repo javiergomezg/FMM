@@ -1,3 +1,9 @@
 #DIRECTORIO FMM2D_LAPLACE_COMPLEX
 
-##- Información del contenido de las subrutinas:
+## Información del contenido de las subrutinas:
+
+### Classdef.py: 
+En este Codigo se requiere del uso de 3 clases que aqui se definen las cuales son:
+1. Sources
+2. Target
+3. Celula
