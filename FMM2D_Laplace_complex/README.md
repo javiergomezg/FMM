@@ -18,7 +18,7 @@ Main del codigo
 Contiene las funciones que generan el arbol de interacciones
 
 ############################################################################################
-## Inter_type.py:
+## inter_type.py:
 Contiene LAs interacciones P2P, P2M, M2M, M2L, L2L, L2P
 
 ############################################################################################
